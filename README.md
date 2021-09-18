@@ -1,2 +1,3 @@
-# linux_configs
-Linux configurations files
+# Linux configurations files
+- Ohmyzsh config
+- Starship config
