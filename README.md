@@ -3,3 +3,4 @@
 - Starship config
 - xterm config
 - tmux config
+- alacritty
